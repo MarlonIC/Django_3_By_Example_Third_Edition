@@ -12,6 +12,9 @@
 - Inspeccionar query de una migración
 `python manage.py sqlmigrate blog 0001`
 
+- Crear usuario administración
+`python manage.py createsuperuser`
+
 - run server local 
 `python manage.py runserver`
 
